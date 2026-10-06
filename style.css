@@ -669,6 +669,7 @@
   .edu-item .deg{font-weight:600; font-size:15.5px; color:var(--white);}
   .edu-item .meta{font-family:var(--mono); font-size:12px; color:var(--ink-faint); margin-top:4px;}
   .edu-item .note{font-size:14px; color:var(--ink-muted); margin-top:8px;}
+  .edu-item .note strong{color:var(--white); font-weight:600;}
 
   .lang-row{display:flex; justify-content:space-between; align-items:center; padding-block:14px; border-top:1px solid var(--line); font-size:15px; color:var(--white);}
   .lang-row:last-child{border-bottom:1px solid var(--line);}
